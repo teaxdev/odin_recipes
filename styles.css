@@ -1,6 +1,30 @@
 .sewy {
-    font-size: 50px;
+    font-size: 40px;
+    background-color: #afabab;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.head {
+    margin: 60px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.tx {
+    font-size: 20px;
+    padding: 3px;
+    margin-right: 40px;
+    background-color: rgb(193, 228, 228);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
